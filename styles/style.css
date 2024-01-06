@@ -210,7 +210,7 @@ nav ul li {
     margin-bottom: 18px;
 }
 .what-img{
-    object-position: left;
+    margin-left: -100px;
 }
 
 /* Resume section */
