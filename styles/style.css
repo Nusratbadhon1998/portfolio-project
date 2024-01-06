@@ -151,17 +151,22 @@ nav ul li {
 
 
 .section {
-    margin: 120px auto;
+    margin: 80px auto;
     text-align: center;
     width: 50%;
     background-color: #FFF8F3;
-    padding: 160px 150px;
+    padding: 100px 150px;
+}
+
+.about,.what {
+    margin-bottom: 30px;
 }
 
 .section-container {
     display: flex;
-    gap: 4px;
+    gap: 6px;
     justify-content: space-evenly;
+    padding:15x;
 }
 
 .section-title {
@@ -175,11 +180,39 @@ nav ul li {
     text-align: center;
     font-size: 18px;
     font-weight: 400;
-}
-/*  */
-.about{
-    margin-bottom: 30px;
+    padding:30px 10px;
 }
 
+/*  */
+
+
 /* What i do section */
+.section2{
+    background-color: white;
+}
+.what-item-para {
+    text-align: left;
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+}
+.what-item-title{
+    text-align: left;
+    font-weight: 700;
+
+}
+
+.skill-container{
+    padding: 20px;
+}
+
+.skill{
+    margin-bottom: 18px;
+}
+.what-img{
+    object-position: left;
+}
+
+/* Resume section */
+
 
